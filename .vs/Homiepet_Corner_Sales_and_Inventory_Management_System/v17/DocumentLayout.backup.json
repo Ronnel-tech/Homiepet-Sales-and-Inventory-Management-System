@@ -1,0 +1,417 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|c:\\users\\ronne\\source\\repos\\homiepet_corner_sales_and_inventory_management_system\\classes\\usercredentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|solutionrelative:classes\\usercredentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\classes\\dialoghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|solutionrelative:classes\\dialoghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\classes\\sqldatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|solutionrelative:classes\\sqldatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\forms\\pet_services_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|solutionrelative:forms\\pet_services_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\forms\\sales_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|solutionrelative:forms\\sales_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|solutionrelative:properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\forms\\report_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|solutionrelative:forms\\report_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\forms\\forgotpasswordform .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|solutionrelative:forms\\forgotpasswordform .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\forms\\inventory_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|solutionrelative:forms\\inventory_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\forms\\pet_services_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|solutionrelative:forms\\pet_services_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\forms\\dashboard_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|solutionrelative:forms\\dashboard_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\forms\\dashboard_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|solutionrelative:forms\\dashboard_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|solutionrelative:forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|solutionrelative:forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|solutionrelative:forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|solutionrelative:forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|solutionrelative:settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\classes\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|solutionrelative:classes\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\classes\\appdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|solutionrelative:classes\\appdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\forms\\report_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|solutionrelative:forms\\report_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\forms\\dashboard_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|solutionrelative:forms\\dashboard_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\forms\\sales_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|solutionrelative:forms\\sales_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\forms\\inventory_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|solutionrelative:forms\\inventory_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\forms\\inventory_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F6D36A5-C97B-40BA-9E2F-78ABE9B6DE2E}|Homiepet_Corner_Sales_and_Inventory_Management_System.csproj|solutionrelative:forms\\inventory_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ForgotPasswordForm .cs",
+              "DocumentMoniker": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Forms\\ForgotPasswordForm .cs",
+              "RelativeDocumentMoniker": "Forms\\ForgotPasswordForm .cs",
+              "ToolTip": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Forms\\ForgotPasswordForm .cs",
+              "RelativeToolTip": "Forms\\ForgotPasswordForm .cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T04:32:32.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pet_Services_form.cs",
+              "DocumentMoniker": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Forms\\Pet_Services_form.cs",
+              "RelativeDocumentMoniker": "Forms\\Pet_Services_form.cs",
+              "ToolTip": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Forms\\Pet_Services_form.cs",
+              "RelativeToolTip": "Forms\\Pet_Services_form.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T09:15:45.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserCredentials.cs",
+              "DocumentMoniker": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Classes\\UserCredentials.cs",
+              "RelativeDocumentMoniker": "Classes\\UserCredentials.cs",
+              "ToolTip": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Classes\\UserCredentials.cs",
+              "RelativeToolTip": "Classes\\UserCredentials.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T03:54:25.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Inventory_form.cs",
+              "DocumentMoniker": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Forms\\Inventory_form.cs",
+              "RelativeDocumentMoniker": "Forms\\Inventory_form.cs",
+              "ToolTip": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Forms\\Inventory_form.cs",
+              "RelativeToolTip": "Forms\\Inventory_form.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:07:05.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Report_form.cs",
+              "DocumentMoniker": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Forms\\Report_form.cs",
+              "RelativeDocumentMoniker": "Forms\\Report_form.cs",
+              "ToolTip": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Forms\\Report_form.cs",
+              "RelativeToolTip": "Forms\\Report_form.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T09:12:50.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sales_form.cs",
+              "DocumentMoniker": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Forms\\Sales_form.cs",
+              "RelativeDocumentMoniker": "Forms\\Sales_form.cs",
+              "ToolTip": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Forms\\Sales_form.cs",
+              "RelativeToolTip": "Forms\\Sales_form.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwL8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T15:28:38.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SqlDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Classes\\SqlDatabase.cs",
+              "RelativeDocumentMoniker": "Classes\\SqlDatabase.cs",
+              "ToolTip": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Classes\\SqlDatabase.cs",
+              "RelativeToolTip": "Classes\\SqlDatabase.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABEAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:21:13.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DialogHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Classes\\DialogHelper.cs",
+              "RelativeDocumentMoniker": "Classes\\DialogHelper.cs",
+              "ToolTip": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Classes\\DialogHelper.cs",
+              "RelativeToolTip": "Classes\\DialogHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:19:09.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Properties\\Settings.settings",
+              "RelativeToolTip": "Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2025-12-01T02:01:12.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pet_Services_form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Forms\\Pet_Services_form.cs",
+              "RelativeDocumentMoniker": "Forms\\Pet_Services_form.cs",
+              "ToolTip": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Forms\\Pet_Services_form.cs [Design]",
+              "RelativeToolTip": "Forms\\Pet_Services_form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:33:24.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dashboard_form.cs",
+              "DocumentMoniker": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Forms\\Dashboard_form.cs",
+              "RelativeDocumentMoniker": "Forms\\Dashboard_form.cs",
+              "ToolTip": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Forms\\Dashboard_form.cs",
+              "RelativeToolTip": "Forms\\Dashboard_form.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T15:26:37.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dashboard_form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Forms\\Dashboard_form.cs",
+              "RelativeDocumentMoniker": "Forms\\Dashboard_form.cs",
+              "ToolTip": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Forms\\Dashboard_form.cs [Design]",
+              "RelativeToolTip": "Forms\\Dashboard_form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T15:33:15.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Forms\\Login.cs",
+              "RelativeDocumentMoniker": "Forms\\Login.cs",
+              "ToolTip": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Forms\\Login.cs [Design]",
+              "RelativeToolTip": "Forms\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:43:58.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Forms\\Login.cs",
+              "RelativeDocumentMoniker": "Forms\\Login.cs",
+              "ToolTip": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Forms\\Login.cs",
+              "RelativeToolTip": "Forms\\Login.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADUAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T01:47:02.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Mainform.cs",
+              "DocumentMoniker": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Forms\\Mainform.cs",
+              "RelativeDocumentMoniker": "Forms\\Mainform.cs",
+              "ToolTip": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Forms\\Mainform.cs",
+              "RelativeToolTip": "Forms\\Mainform.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T01:46:58.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Mainform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Forms\\Mainform.cs",
+              "RelativeDocumentMoniker": "Forms\\Mainform.cs",
+              "ToolTip": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Forms\\Mainform.cs [Design]",
+              "RelativeToolTip": "Forms\\Mainform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:41:38.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T17:37:05.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Settings.cs",
+              "RelativeDocumentMoniker": "Settings.cs",
+              "ToolTip": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Settings.cs",
+              "RelativeToolTip": "Settings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T17:37:10.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Classes\\IDatabase.cs",
+              "RelativeDocumentMoniker": "Classes\\IDatabase.cs",
+              "ToolTip": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Classes\\IDatabase.cs",
+              "RelativeToolTip": "Classes\\IDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:21:12.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDb.cs",
+              "DocumentMoniker": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Classes\\AppDb.cs",
+              "RelativeDocumentMoniker": "Classes\\AppDb.cs",
+              "ToolTip": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Classes\\AppDb.cs",
+              "RelativeToolTip": "Classes\\AppDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:19:05.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Report_form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Forms\\Report_form.cs",
+              "RelativeDocumentMoniker": "Forms\\Report_form.cs",
+              "ToolTip": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Forms\\Report_form.cs [Design]",
+              "RelativeToolTip": "Forms\\Report_form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:47:34.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Dashboard_form.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Forms\\Dashboard_form.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Dashboard_form.Designer.cs",
+              "ToolTip": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Forms\\Dashboard_form.Designer.cs",
+              "RelativeToolTip": "Forms\\Dashboard_form.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAQCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T01:47:25.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Sales_form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Forms\\Sales_form.cs",
+              "RelativeDocumentMoniker": "Forms\\Sales_form.cs",
+              "ToolTip": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Forms\\Sales_form.cs [Design]",
+              "RelativeToolTip": "Forms\\Sales_form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T15:29:14.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Inventory_form.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Forms\\Inventory_form.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Inventory_form.Designer.cs",
+              "ToolTip": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Forms\\Inventory_form.Designer.cs",
+              "RelativeToolTip": "Forms\\Inventory_form.Designer.cs",
+              "ViewState": "AgIAAEMCAAAAAAAAAAAgwGcCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T01:49:30.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Inventory_form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Forms\\Inventory_form.cs",
+              "RelativeDocumentMoniker": "Forms\\Inventory_form.cs",
+              "ToolTip": "C:\\Users\\ronne\\source\\repos\\Homiepet_Corner_Sales_and_Inventory_Management_System\\Forms\\Inventory_form.cs [Design]",
+              "RelativeToolTip": "Forms\\Inventory_form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:41:36.355Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
