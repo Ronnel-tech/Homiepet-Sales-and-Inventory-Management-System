@@ -55,3 +55,19 @@ The system is designed to help administrators efficiently track products, monito
 5. Charting Library: LiveCharts
 6. Development Environment: Visual Studio
 7. Target Platform: Windows OS
+
+## Future Enhancements
+
+1. User activity logs
+2. Barcode scanning integration
+3. Printable sales receipts
+4. Export reports to PDF or Excel
+5. Backup and restore functionality
+
+## Project Information
+
+Project Name: Homipet Sales and Inventory Management System
+Platform: Windows Desktop Application
+Role: Admin
+Developer: Ronnell Logdat
+Purpose: Academic / Learning Project
