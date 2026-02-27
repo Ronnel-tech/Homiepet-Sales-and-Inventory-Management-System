@@ -1,5 +1,5 @@
-🐾 Homipet Sales and Inventory Management System
-📌 Project Overview
+#Homipet Sales and Inventory Management System
+Project Overview
 
 The Homipet Sales and Inventory Management System is a Windows-based desktop application developed to manage product inventory and sales transactions for a pet-related business.
 
