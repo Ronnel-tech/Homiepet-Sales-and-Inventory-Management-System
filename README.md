@@ -66,7 +66,7 @@ The system is designed to help administrators efficiently track products, monito
 
 ## Project Information
 
-1.Project Name: Homipet Sales and Inventory Management System
+1. Project Name: Homipet Sales and Inventory Management System
 2. Platform: Windows Desktop Application
 3. Role: Admin
 4. Developer: Ronnell Logdat
